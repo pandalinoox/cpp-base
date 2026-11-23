@@ -14,9 +14,7 @@ using namespace std;
 #endif
 
 void solve() {
-  int n;
-  cin >> n;
-  cout << n;
+  //woa so much intelligence
 }
 
 int main() {
